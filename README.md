@@ -1,5 +1,6 @@
 # EG_scraping
 Aim: to scrape data from the Estates Gazette Property Link website.
+
 Data: all commercial rent properties in Bath. (Bristol aswell?)
 
 Hopefully this links to the binder
