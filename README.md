@@ -5,4 +5,4 @@
 
 **Next** - find a way to make it more usable for anyone. No code visible unless something goes wrong and I have to try and fix it. 
 
-**Data** - all commercial rent properties in Bath. (Bristol aswell?)
+**Data** - all commercial rent properties in Bath. Maybe adding Bristol as well in the future, however it is a much larger dataset & apparently the Bath commercial property rental market is a very closed loop - easier to get emails to send.
