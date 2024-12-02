@@ -3,6 +3,6 @@ Aim: to scrape data from the Estates Gazette Property Link website - after 18.11
 
 Currently - emails auto-draft to the agent for any property which has recently come off of EGPL.
 
-<\b>Next<\b> -  
+****Next**** -  
 
 Data: all commercial rent properties in Bath. (Bristol aswell?)
